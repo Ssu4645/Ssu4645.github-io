@@ -1,0 +1,12 @@
+<!doctype html> <!--  basicHtml.html  -->
+<html lang="ko">
+<head>
+  <meta charset="utf-8"/>
+  <title>1주차Ex1_1</title>
+</head>
+<body>
+  <h1>김동우</h1>
+  <p>1주차 Ex1_1</p>
+  <img src="http://ssu4645.github.io/img/1_1_1.png">
+</body>
+</html>
