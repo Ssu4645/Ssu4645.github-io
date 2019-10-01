@@ -1,0 +1,12 @@
+<!doctype html> <!--  basicHtml.html  -->
+<html lang="ko">
+<head>
+  <meta charset="utf-8"/>
+  <title>4주차Ex2_14</title>
+</head>
+<body>
+  <h1>김동우</h1>
+  <p>4주차 Ex2_14</p>
+  <img src="http://ssu4645.github.io/img/5_1_14.png">
+</body>
+</html>
